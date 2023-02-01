@@ -2,5 +2,14 @@
     color:red
 }
 .bei-bg{
-    background-color:beige
+    background-color: beige;
+}
+#sbg{
+    background-color: pink;
+}
+#ott{
+
+}
+html {
+    scroll-behavior: smooth;
 }
